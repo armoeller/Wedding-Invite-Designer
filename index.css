@@ -188,7 +188,7 @@ input:hover {
   font-style: normal;
   color: black;
   /*width: 590;*/
-  /*height: 700px;*/
+  height: 700px;
   box-shadow: 3px 3px 20px 1px gray;
   text-align: center;
   padding-top: 130px;
